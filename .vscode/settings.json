@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "E:\\virtualenv\\udemydjango2\\Scripts\\python",
+    "editor.fontSize": 20
+}
